@@ -56,7 +56,7 @@ This code base is based on Spring Data R2DBC with Oracle relational database.
 
 3. ### Test APIs in Postman
 
-* Import **spring-Oracle-reactive.postman_collection.json** in Postman.
+* Import **spring-reactive-urls.json** in Postman.
 * Hit the APIs.
 
 Cheers ...
