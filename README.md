@@ -37,7 +37,7 @@ This code base is based on Spring Data R2DBC with Oracle relational database.
 * Run `docker exec oracle21c ./setPassword.sh <your-new-oracle-password-for-sys-user>`
 * Connect to database using Oracle SQL Developer <br/>
   > username : SYSTEM <br/>
-  password : <your-new-oracle-password-for-sys-user> <br/>
+  password : "your-new-oracle-password-for-sys-user" <br/>
   hostname : localhost  <br/>
   port : 1521  <br/>
   SID : ORCLCDB
